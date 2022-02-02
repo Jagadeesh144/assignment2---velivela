@@ -39,5 +39,18 @@ The below table indicates the sports activity that I would like to recommend oth
 
 ---
 
+### Quotes
 
 
+“You have to grow from the inside out. None can teach you,
+none can make you spiritual.
+There is no other teacher but your own soul.”
+                 -Swami Vivekananda
+
+The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education.
+                -Martin Luther King Jr.
+
+
+ Life is like riding a bicycle. To keep your balance, you must keep moving.
+
+                    -Albert Einstein
