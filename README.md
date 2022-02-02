@@ -15,5 +15,29 @@ the other names of Tirupati is **Kaliyuga Vaikuntha**
 6. Take the free left when see the directions on the highway to mg Outer ring road.
 7. exit the Outer Ring Road on to exit no 20, this will take you to the Airport.
 
+#### Food recommendations for others
+ * Gongora biryani
+ * Guntur gongora 
+   * Guntur Chicken 
+     * vijayawada biryani
+ * bheemavaram fish   
+
+
+ ---
+
+ #### Sports Recommendations
+
+
+The below table indicates the sports activity that I would like to recommend others to participate and which is the best place to try and how much it would cost to by the equipment for the sport activity
+
+|Sport|Location|Equipment Cost|
+|:-----:|:--------:|:-----------:|
+|Cricket|Chinna Swamy Stadium|$10|
+|Volleyball|firozshah Stadium|$30|
+|Kabadi|Gachibowli|$40|
+|Football|Mumbai Stadium|$50|
+
+---
+
 
 
