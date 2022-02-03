@@ -1,7 +1,7 @@
 # assignment2---velivela
 # Jagadeesh Velivela 
 #### tirupati
-Tirupati, an ancient town at the southern end of Andhra Pradesh, is a pilgrim’s paradise. The place is famous for its many Hindu shrines; the most people are called as  **Sri Venkateswara Swamy** or Tirupati Balaji temple. Devotees from different parts of India and abroad visit this temple **Sri Govindaraja Swamy Temple** and near to **Sri Kapliswaraswamy Temple**
+Tirupati, an ancient town at the southern end of Andhra Pradesh, is a pilgrim’s paradise. The place is famous for its many Hindu shrines; the most people are called as  **Sri Venkateswara Swamy** or Tirupati Balaji temple. Devotees from different parts of India and abroad visit this temple **Lord Sri Govindaraja Swamy Temple** and near to **Sri Kapliswaraswamy Temple**
 the other names of Tirupati is **Kaliyuga Vaikuntha**
 
 ---
@@ -66,7 +66,7 @@ The function of education is to teach one to think intensively and to think crit
 
 we are discussing Finding a Negative cycle in the graphs 
 You are given a directed weighted graph  with  vertices and  edges. Find any cycle of negative weight in it, if such a cycle exists.
-In another formulation of the problem you have to find all pairs of vertices which have a path of arbitrarily small weight between them.
+In another formulation of the problem you have to find all pairs of vertices which have a path of arbitrarily small weight a between them.
 
 [Algorithm code description](https://cp-algorithms.com/index.html)
 
