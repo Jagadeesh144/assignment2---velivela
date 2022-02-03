@@ -20,7 +20,7 @@ the other names of Tirupati is **Kaliyuga Vaikuntha**
  * Gongora biryani
  * Guntur gongora 
    * Guntur Chicken 
-     * vijayawada biryani
+   * vijayawada biryani
  * bheemavaram fish   
 
 
