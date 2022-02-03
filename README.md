@@ -32,7 +32,7 @@ The below table indicates the sports activity that I would like to recommend oth
 
 |Sport|Location|Equipment Cost|
 |:-----:|:--------:|:-----------:|
-|Cricket|Chinna Swamy Stadium|$10|
+|Cricket|Chinna Stadium|$10|
 |Volleyball|firozshah Stadium|$30|
 |Kabadi|Gachibowli|$40|
 |Football|Mumbai Stadium|$50|
@@ -124,7 +124,7 @@ void solve()
 
 
  [RepoLink] https://github.com/Jagadeesh144/assignment2---velivela
- 
+
 [Jagadeesh Velivela][IMAGE](https://github.com/Jagadeesh144/assignment2---velivela/blob/main/Jagadeesh%20Velivela.jpeg)
 
 [imageLink]https://github.com/Jagadeesh144/assignment2---velivela/blob/main/Jagadeesh%20Velivela.png
