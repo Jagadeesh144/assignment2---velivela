@@ -125,7 +125,5 @@ void solve()
 
  [RepoLink] https://github.com/Jagadeesh144/assignment2---velivela
 
-[JagadeeshVelivela][https://github.com/Jagadeesh144/assignment2---velivela/blob/main/Jagadeesh%20Velivela.jpeg)
-
-[imageLink]https://github.com/Jagadeesh144/assignment2---velivela/blob/main/Jagadeesh%20Velivela.png
-
+[JagadeeshVelivela]https://github.com/Jagadeesh144/assignment2---velivela/blob/main/Jagadeesh%20Velivela.png?raw=true
+[imageLink]
