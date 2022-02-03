@@ -54,3 +54,73 @@ The function of education is to teach one to think intensively and to think crit
  Life is like riding a bicycle. To keep your balance, you must keep moving.
 
                     -Albert Einstein
+
+ Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
+
+                    -Lao Tzu
+
+---
+
+### Cycles Code 
+
+we are discussing Finding a Negative cycle in the graphs 
+You are given a directed weighted graph  with  vertices and  edges. Find any cycle of negative weight in it, if such a cycle exists.
+In another formulation of the problem you have to find all pairs of vertices which have a path of arbitrarily small weight between them.
+
+[Algorithm code description](https://cp-algorithms.com/index.html)
+
+Using Bellman-Ford algorithm
+Bellman-Ford algorithm allows you to check whether there exists a cycle of negative weight in the graph, and if it does, find one of these cycles.
+
+The details of the algorithm are described in the article on the Bellman-Ford algorithm. Here we'll describe only its application to this problem.
+
+[Click here to find the algorithm full discription](https://cp-algorithms.com/graph/finding-negative-cycle-in-graph.html)
+
+
+struct Edge {
+    int a, b, cost;
+};
+
+int n, m;
+vector<Edge> edges;
+const int INF = 1000000000;
+
+void solve()
+{
+    vector<int> d(n);
+    vector<int> p(n, -1);
+    int x;
+    for (int i = 0; i < n; ++i) {
+        x = -1;
+        for (Edge e : edges) {
+            if (d[e.a] + e.cost < d[e.b]) {
+                d[e.b] = d[e.a] + e.cost;
+                p[e.b] = e.a;
+                x = e.b;
+            }
+        }
+    }
+
+    if (x == -1) {
+        cout << "No negative cycle found.";
+    } else {
+        for (int i = 0; i < n; ++i)
+            x = p[x];
+
+        vector<int> cycle;
+        for (int v = x;; v = p[v]) {
+            cycle.push_back(v);
+            if (v == x && cycle.size() > 1)
+                break;
+        }
+        reverse(cycle.begin(), cycle.end());
+
+        cout << "Negative cycle: ";
+        for (int v : cycle)
+            cout << v << ' ';
+        cout << endl;
+    }
+}
+
+
+
