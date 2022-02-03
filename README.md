@@ -7,7 +7,7 @@ the other names of Tirupati is **Kaliyuga Vaikuntha**
 ---
 
 #### The closest one is SWAGATH HOTEL from Airport
-**Renuguntla Airport** is the nearest airport to hotel where I can get all the food stuff that i love
+**RENUGUNTLA Airport** is the nearest airport to hotel where I can get all the food stuff that i love
 1. Take a free right to the bezz circle
 2. Exit Outer Ring Road to NH5 highway 
 3. After 20 Kilometers You will enter NH5
